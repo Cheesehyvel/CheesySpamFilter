@@ -1,0 +1,7 @@
+## Interface: 38988
+## Version: 1.0.0
+## Title: CheeseySpamFilter
+## Notes: Filters our duplicate chat messages
+## Author: Osthyvel-Ashbringer
+
+CheesySpamFilter.lua
